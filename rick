@@ -1,18 +1,45 @@
-
-<html lang="en" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
     <title></title>
-    <link rel="stylesheet" href="file:///Users/Dallin/Desktop/css/master.css">
+    <link rel="stylesheet" href="css/master.css">
 
 
 
   </head>
 
-  <body style="background-color:powderblue;">
+  <body>
+    <a href="#">Home</a> |
+    <a href="pages/page1.html">Page 1</a> |
+    <a href="pages/page2.html">Page 2</a> |
+    <a href="pages/page3.html">Page 3</a> |
+    <a href="pages/page4.html">Page 4</a>
+
+    <h1>Hello World!</h1>
+    <p>My name is Dallin</p>
 
 
-    <h1>Click For Free Bobux</h1>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Free Bobux</a>
 
 
-</body></html>
+
+
+    <p class="p1">
+  <audio controls loop autoplay height="2" width="3">
+    <source src="audio/wopper.mp3" type="audio/wav">
+    <source src="audio/wopper.ogg" type="audio/mpeg">
+</audio>
+
+
+
+
+
+
+
+
+<p class="p1">
+My name is dallin mccay i like to go outside and mess around with friends i used to as a kid mess around and play with the other kids in the neighborhood and i also like to go around traveling this is fun because i've been to machu picchu my dad is a utah senator my mom is a city councilperson and my brothers name is cooper and i have 4 sisters i have a sister named anna and shes cool usually brook is kinda non talkative my sister kate is al right and my sister savanna is alright rain is made because the clouds get fat and they become self aware and start crying and they lose some weight so you cant see them 3.
+</p>
+
+  </body>
+</html>
